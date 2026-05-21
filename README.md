@@ -1,6 +1,6 @@
 # 🏠 GORIB: Smart Budget & Expense Tracker
 
-> **GORIB** (pronounced *go-reeb*, meaning **"Poor"** in Malay/Bengali) is a premium, AI-powered financial companion. It is built with a singular mission: helping you stay budget-conscious, save smartly, and build healthy financial habits so you are never left feeling *gorib*!
+> **GORIB** (pronounced *go-reeb*, meaning **"Poor"** in Bengali) is a premium, AI-powered financial companion. It is built with a singular mission: helping you stay budget-conscious, save smartly, and build healthy financial habits so you are never left feeling *gorib*!
 
 GORIB is a modern, high-precision Android application designed to streamline daily expense tracking, automate recurring bills, analyze spending trends, and leverage state-of-the-art AI to scan and translate paper grocery receipts instantly.
 
